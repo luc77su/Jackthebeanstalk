@@ -9,5 +9,3 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
-
-//파일 지웠다 만들었다 연습하기
